@@ -6,10 +6,7 @@
 
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dang-Hung-Thinh" alt="Dang-Hung-Thinh" /></a> </p>
-
-- 🔭Recently, I have been learning about ASM programming with the PIC16F877A. (https://github.com/Thingjang/asm_pic16f)
-
-- 🌱 I’m currently learning **C, python and verilog**
+- 🌱 I’m currently learning **C, assembly python and verilog**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dang-Hung-Thih?tab=repositories](https://github.com/Thingjang?tab=repositories)
 
