@@ -8,6 +8,7 @@
     </td>
   </tr>
 </table>
+---
 <h3 align="left">I'm studying at HCMUTE.</h3>
 
 - <strong> Ask me about </strong>:[My Issues Page](https://github.com/Dang-Hung-Thinh/Dang-Hung-Thinh/issues)
