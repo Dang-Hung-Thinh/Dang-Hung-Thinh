@@ -55,7 +55,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://giphy.com/gifs/frog-fric-dric-8Zaoyr0zW9NJLiF6Pv" width="120" height="120" style="border-radius: 10px;" />
+      <img src="https://c.tenor.com/vpCF4BOgMQcAAAAC/cute.gif" width="120" height="120" style="border-radius: 10px;" />
     </td>
     <td>
       <ul>
