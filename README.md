@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋</h1>
 <h3 align="center">I'm currently studying Computer Engineering Technology at HCMUTE.</h3>
 
-- 💬 Ask me about [My Issues Page](https://github.com/Dang-Hung-Thinh/Dang-Hung-Thinh/issues)
-
+- Ask me about [My Issues Page](https://github.com/Dang-Hung-Thinh/Dang-Hung-Thinh/issues)
+- <i> My project </i> : https://github.com/Dang-Hung-Thinh?tab=repositories
 ---
 
 <h3 align="left">Languages and Tools:</h3>
