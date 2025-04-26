@@ -59,7 +59,7 @@
     </td>
     <td>
       <ul>
-        <li><strong>Instagram:</strong> <a href="https://instagram.com/thinh.ja" target="_blank">hg.xnb</a></li>
+        <li><strong>Instagram:</strong> <a href="https://instagram.com/thinh.ja" target="_blank">Thinhja</a></li>
         <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/thinh-dang-5904092a9" target="_blank">Hung Thinh</a></li>
         <li><strong>Email:</strong> <a href="thingjang682@gmail.com">thingjang682@gmail.com</a></li>
       </ul>
