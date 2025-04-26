@@ -1,4 +1,15 @@
-<h1 align="left">Hi there 👋</h1>
+<table>
+  <tr>
+    <td>
+      <img src="https://th.bing.com/th/id/OIP.-oxVN-pw9wEgrB3DKL-PgwHaHa?cb=iwc1&rs=1&pid=ImgDetMain" width="120" height="120" style="border-radius: 10px;" />
+    </td>
+    <td>
+      <ul>
+        <li>Hiii ;></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 <h3 align="left">I'm studying at HCMUTE.</h3>
 
 - <strong> Ask me about </strong>:[My Issues Page](https://github.com/Dang-Hung-Thinh/Dang-Hung-Thinh/issues)
@@ -39,7 +50,6 @@
 ---
 
 ## How to reach me 🍀
-
 <table>
   <tr>
     <td>
