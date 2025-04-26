@@ -4,9 +4,7 @@
       <img src="https://th.bing.com/th/id/OIP.-oxVN-pw9wEgrB3DKL-PgwHaHa?cb=iwc1&rs=1&pid=ImgDetMain" width="120" height="120" style="border-radius: 10px;" />
     </td>
     <td>
-      <ul>
-      ~Hiii, im HungThính~
-      </ul>
+      ~Hiii, im HungThinh~
     </td>
   </tr>
 </table>
