@@ -2,7 +2,7 @@
 <h3 align="center">I'm currently studying Computer Engineering Technology at HCMUTE.</h3>
 
 - <strong> Ask me about </strong>:[My Issues Page](https://github.com/Dang-Hung-Thinh/Dang-Hung-Thinh/issues)
-- <strong> My project </strong> : [here](https://github.com/Dang-Hung-Thinh?tab=repositories)
+- <strong> My project </strong> : [Here](https://github.com/Dang-Hung-Thinh?tab=repositories)
 ---
 
 <h3 align="left">Languages and Tools:</h3>
