@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">I'm currently studying Computer Engineering Technology at HCMUTE.</h3>
+<h3 align="center">I'm studying at HCMUTE.</h3>
 
 - <strong> Ask me about </strong>:[My Issues Page](https://github.com/Dang-Hung-Thinh/Dang-Hung-Thinh/issues)
 - <strong> My project </strong> : [Here](https://github.com/Dang-Hung-Thinh?tab=repositories)
