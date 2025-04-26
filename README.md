@@ -1,10 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 <h3 align="center">I'm currently studying Computer Engineering Technology at HCMUTE.</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Dang-Hung-Thinh&label=Profile%20views&color=0e75b6&style=flat" alt="Dang-Hung-Thinh" />
-</p>
-
 - 💬 Ask me about [My Issues Page](https://github.com/Dang-Hung-Thinh/Dang-Hung-Thinh/issues)
 
 ---
