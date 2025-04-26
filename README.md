@@ -5,7 +5,7 @@
     </td>
     <td>
       <ul>
-        <li> ~Hiii~></li>
+        ~Hiii~
       </ul>
     </td>
   </tr>
