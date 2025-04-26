@@ -67,8 +67,4 @@
   </tr>
 </table>
 
-<details>
-  <summary>Are you a <strong>Human Resource</strong> department employee?</summary>
-  Feel free to contact me anytime!
-</details>
 
