@@ -50,11 +50,11 @@
 
 ---
 
-## How to reach me 🍀
+### How to reach me 
 <table>
   <tr>
     <td>
-      <img src="https://c.tenor.com/vpCF4BOgMQcAAAAC/cute.gif" width="120" height="120" style="border-radius: 10px;" />
+      <img src="https://c.tenor.com/vpCF4BOgMQcAAAAC/cute.gif" width="200" height="120" style="border-radius: 10px;" />
     </td>
     <td>
       <ul>
