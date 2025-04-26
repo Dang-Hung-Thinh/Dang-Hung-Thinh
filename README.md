@@ -58,14 +58,14 @@
     </td>
     <td>
       <ul>
-        <li><strong>Instagram:</strong>
+        <li><a<strong>Instagram:</strong>
         <li><strong>LinkedIn:</strong>
         <li><strong>Email:</strong>
     </td>
     <td>
-      <a href="https://instagram.com/thinh.ja" target="_blank">Thinhja</a>
-      <a href="https://linkedin.com/in/thinh-dang-5904092a9" target="_blank">Hung Thinh<a>
-      <a href="thingjang682@gmail.com">thingjang682@gmail.com</a>
+      <li><a href="https://instagram.com/thinh.ja" target="_blank">Thinhja</a></li>
+      <li><a href="https://linkedin.com/in/thinh-dang-5904092a9" target="_blank">Hung Thinh<a></li>
+      <li><a href="thingjang682@gmail.com">thingjang682@gmail.com</a></li>
     </td>
   </tr>
 </table>
