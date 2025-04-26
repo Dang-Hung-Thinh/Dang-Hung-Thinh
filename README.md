@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋</h1>
-<h3 align="center">I'm studying at HCMUTE.</h3>
+<h1 align="left">Hi there 👋</h1>
+<h3 align="left">I'm studying at HCMUTE.</h3>
 
 - <strong> Ask me about </strong>:[My Issues Page](https://github.com/Dang-Hung-Thinh/Dang-Hung-Thinh/issues)
 - <strong> My project </strong> : [Here](https://github.com/Dang-Hung-Thinh?tab=repositories)
@@ -32,7 +32,7 @@
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dang-Hung-Thinh&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
