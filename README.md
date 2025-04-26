@@ -58,7 +58,7 @@
     </td>
     <td>
       <ul>
-        <li><a<strong>Instagram:</strong>
+        <li><strong>Instagram:</strong>
         <li><strong>LinkedIn:</strong>
         <li><strong>Email:</strong>
     </td>
