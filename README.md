@@ -26,7 +26,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
+    <img src="https://th.bing.com/th/id/R.4f1315722498aa5dbec76364cf5aaf70?rik=QVvgQblfyWwEpQ&riu=http%3a%2f%2ficons.iconarchive.com%2ficons%2fmartz90%2fcircle%2f512%2fubuntu-icon.png&ehk=nDRqrzNjKMHRTdVIvlZ9iah6Jm%2bemeRELsowGKP8dc0%3d&risl=&pid=ImgRaw&r=0" alt="Linux" width="40" height="40" />
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
