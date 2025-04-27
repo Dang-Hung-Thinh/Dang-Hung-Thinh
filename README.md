@@ -34,7 +34,7 @@
   <a href="https://en.wikipedia.org/wiki/Verilog" target="_blank" rel="noreferrer">
   <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/verilog.png" alt="Verilog" width="40" height="40" />
 </a>
-  <a href="https://en.wikipedia.org/wiki/Verilog" target="_blank" rel="noreferrer">
+  <a href="https://www.amd.com/en/products/software/adaptive-socs-and-fpgas/vivado.html" target="_blank" rel="noreferrer">
   <img src="https://user-images.githubusercontent.com/56430787/105164182-1afa8a80-5b15-11eb-8ac3-7ae5c9f0e15e.png" alt="Verilog" width="40" height="40" />
 </a>
   <a href="https://www.altium.com/" target="_blank" rel="noreferrer">
